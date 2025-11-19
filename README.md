@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/user-attachments/assets/1fc67972-a6a0-4092-8cc8-cc9253c57278" width="100" />
+  <img src="https://github.com/user-attachments/assets/0d7d0d72-74c5-44af-8359-a60529c91aac"/>
 </div>
 
 ### Dota2 2pos 
